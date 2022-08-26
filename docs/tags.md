@@ -1,5 +1,5 @@
 ---
 layout: tags
-title: Tags
-description: A tags page for Scriptor Jekyll theme
+title: Categorias
+description: Temas y Categorias del Blog
 ---

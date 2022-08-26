@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site language
-lang: en-US
+lang: es-CO
 
 # Site title
-title: "Scriptor"
+title: "Aprendiz de Cristiano"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Reflexiones y evangelización Cristiana desde una visión de un constante aprendiz"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://aprendizdecristiano.github.io"
 
 # Favicon
 favicon: images/favicon.png
@@ -28,26 +28,22 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: Inicio
     url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - text: Quien soy
+    url: /about/ 
+  - text: Temas
+    url: /tags/ 
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: aprendizdecristiano
 
 # Colors
 accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; Aprendiz de Cristiano. Sin Derechos reservados. Tema del blog de [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 
 # Plugins
