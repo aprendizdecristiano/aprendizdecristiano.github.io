@@ -8,7 +8,7 @@ feature_image: images/0_evangelizacion.jpg
 tags: [Apologética]
 ---
 
-Aprender a debatir las razones fundamentales de la **fé cristiana** y nuestra historia es ahora una tarea primordial en todo aquel que se considere cristiano si queremos llevar los valores de Cristo a las nuevas generaciones, pues en la actualidad el constante bombardeo ideológico hace que sea muy dificil escuchar la voz de unos pocos líderes que se han alejado de enseñanzas que solo buscan entretener y no enseñar.
+Aprender a debatir las razones fundamentales de la **fé cristiana** y su historia es ahora una tarea primordial en todo aquel que se considere cristiano si queremos llevar los valores de Cristo a las nuevas generaciones, pues en la actualidad el constante bombardeo ideológico hace que sea muy dificil escuchar la voz de unos pocos líderes que se han alejado de enseñanzas que solo buscan entretener y no enseñar.
 
 El Cristiano de hoy debe ser capaz de dar razones de su fé, con tranquilidad, respeto y mansedumbre [1 Pedro 3:15](https://www.bibliacatolica.com.br/la-biblia-de-jerusalen/i-pedro/3/), pero con la fortaleza y el testimonio suficiente para ser una luz en medio de la oscuridad.
 
