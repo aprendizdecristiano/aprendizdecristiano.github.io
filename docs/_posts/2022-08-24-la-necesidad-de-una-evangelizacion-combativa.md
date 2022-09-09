@@ -14,7 +14,7 @@ El Cristiano de hoy debe ser capaz de dar razones de su fé, con tranquilidad, r
 
 <!--more-->
 
-Siento que la carga ha sido dejada a los sacerdotes y consagrados pero seamos sinceros, la cantidad está disminuyendo, las distancias y las ciudades cada vez mas grandes y el pueblo de Dios está cada vez mas disperso geográficamente, por lo que la necesidad de una nueva evangelización es una tarea que debemos de hacer todos. ¿como?
+Siento que la carga ha sido dejada a los sacerdotes y consagrados pero seamos sinceros, la cantidad está disminuyendo, las distancias y las ciudades son cada vez mas grandes y el pueblo de Dios está cada vez mas disperso geográficamente, por lo que la necesidad de una nueva evangelización es una tarea que debemos de hacer todos. ¿como?
 
 ## ¿Como conocer nuestra Fé?
 
@@ -36,7 +36,13 @@ Lo ideal, en mi opinión, es que la Fe se defienda sola, que nuestro testimonio 
 
 - **Apunta al argumento central**. Las replicas llegarán en masa, apuntar a una sola y tratar de aclararla es vital para mantener el orden. Abarcar 2000 años de historia o resumir centenares de documentos es imposible y eso está en nuestra contra, ¡Es mucho mas fácil creer en una noticia falsa, que aclararla! 
 
-- Si la discusión se sube tono, evitala. Con esto quiero decir que es imposible explicarle algo a una persona que no quiere entender, si no existe una sincera disposición 
+- **Si la discusión se sube tono,** evitala. Con esto quiero decir que es imposible explicarle algo a una persona que no quiere entender, si no existe una sincera disposición y una apertura al diálogo, no hay mucho que podamos hacer, aunque orar por esa persona es el mejor regalo.
 
-## Re
+- **Fórmarse**. Es  necesario conocer de que se habla para tener la seguridad de transmitirlo de manera acertada. Las Herramientas que pongo arriba son una buena base, pero hay que profundizar en cada una de ellas, hay que leer, hay que estudiar, hay que orar, hay que vivir la fe.
+
+## Educar y enseñar, tambien en nuestras parroquias y familias.
+
+Dar el paso a debatir con amigos y extraños, debería estar precedido de una intensa actividad parroquial y de una buena formación en casa. La Iglesia tiene que ser un lugar de encuentro, de formación y de evangelización, donde se pueda compartir la fe y donde se pueda aprender a defenderla. En casa, los padres deben de ser los primeros en transmitir la fe a sus hijos, no solo con palabras, sino con el ejemplo, con la vida, con la oración, con la caridad, con la santidad.
+
+Espero que este sea el primer de muchos artículos que escribiré sobre este tema, pero por ahora, me despido pidiendoles que recen por mi, por mi familia y por todos los que se dedican a la evangelización y a la defensa de la fe.
 
