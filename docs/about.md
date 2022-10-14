@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ¿Quien soy y porque este blog?
+published: true
 description: Esta es mi presentación y mis razones para crear este blog
 feature_image: images/foto-juan-david-pareja-soto.jpg
 ---
