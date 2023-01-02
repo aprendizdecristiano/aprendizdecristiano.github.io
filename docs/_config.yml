@@ -14,8 +14,9 @@ title: "Aprendiz de Cristiano"
 # A description of your site for meta tag, search engine results.
 description: "Reflexiones y evangelización Cristiana desde una visión de un constante aprendiz"
 
-# The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+domain: aprendizdecristiano.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://aprendizdecristiano.com/  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /docs/      # place folder name if the site is served in a subfolder
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://aprendizdecristiano.github.io"

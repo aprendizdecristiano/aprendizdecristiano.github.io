@@ -2,7 +2,7 @@
 layout: post
 title: "La necesidad de una nueva evangelización"
 description: "Aprender a debatir las razones fundamentales de la fé cristiana y nuestra historia es ahora una tarea primordial."
-date: 2019-01-01
+date: 2023-01-01
 published: true
 feature_image: images/0_evangelizacion.jpg
 tags: [Apologética]
