@@ -4,6 +4,7 @@ title: ¿Quien soy y porque este blog?
 published: true
 description: Esta es mi presentación y mis razones para crear este blog
 feature_image: images/foto-juan-david-pareja-soto.jpg
+permalink: /about/
 ---
 
 Mi nombre es **Juan David Pareja Soto** soy Ingeniero de Sistemas y Computación, Fundador de [CreApps](https://www.creapps.co), una empresa dedicada a la creación de aplicaciones móviles y el desarrollo de Software.
