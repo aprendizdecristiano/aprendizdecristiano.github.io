@@ -34,8 +34,8 @@ navigation:
   - text: Quien soy
     url: /about/ 
   - text: Temas
-    url: /tags.html/ 
-
+    url: /tags.html
+    
 # The shortname for your Disqus site to enable comments.
 disqus: aprendizdecristiano
 
