@@ -31,6 +31,8 @@ google_analytics: ""
 navigation:
   - text: Inicio
     url: /
+  - text: "La Biblia en un año"
+    url: /reto-biblia/introduccion
   - text: Quien soy
     url: /about/ 
   - text: Temas
