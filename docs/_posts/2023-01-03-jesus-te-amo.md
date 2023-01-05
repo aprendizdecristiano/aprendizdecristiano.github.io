@@ -5,7 +5,7 @@ description: "Centenares de páginas de doctrina y teología, resumidas en una f
 date: 2023-01-03
 published: true
 feature_image: images/benedicto-xvi.jpg
-tags: [Apologética]
+tags: [BenedictoXVI]
 ---
 
 Su Santidad Benedicto XVI ha muerto. Esta fué la noticia que recorrió rápidamente todas las agencias de noticias y redes sociales el último dia del 2023 y como era de esperarse aparecieron muchos fragmentos de las frases escritas y pronunciadas por Benedicto XVI en su periodo como pontifice, como cardenal o como sacerdote.
