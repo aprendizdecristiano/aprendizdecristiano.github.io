@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El Reto de la Biblia en un año"
+title: "Dia N - El Reto de la Biblia en un año"
 description: "Te invito a leer conmigo la Biblia en un año."
 date: 2023-01-01
 published: false
