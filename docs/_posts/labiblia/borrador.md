@@ -7,6 +7,7 @@ published: false
 feature_image: images/biblia/lectura-de-la-biblia.jpg
 tags: [La Biblia en Un Año]
 permalink: /reto-biblia/dia-n
+hidden: true
 ---
 
 # Dia N - La Biblia en un año
