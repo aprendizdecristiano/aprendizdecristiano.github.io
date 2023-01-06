@@ -30,4 +30,4 @@ Te dejo el link de Spotify
 | [02-Enero](/reto-biblia/dia-2) | El mundo de los orígenes | Génesis 3–4 |   | Salmo 104 |:heavy_check_mark: |
 | [03-Enero](/reto-biblia/dia-3) | El mundo de los orígenes | Génesis 5–6 |   | Salmo 136 |:heavy_check_mark: |
 | [04-Enero](/reto-biblia/dia-4) | El mundo de los orígenes | Génesis 7–9 |   | Salmo 1 |:heavy_check_mark: |
-| [05-Enero](/reto-biblia/dia-5) | El mundo de los orígenes | Génesis 10–11 |   | Salmo 2 |
+| [05-Enero](/reto-biblia/dia-5) | El mundo de los orígenes | Génesis 10–11 |   | Salmo 2 | :heavy_check_mark: |
