@@ -21,7 +21,7 @@ Te dejo el link de Spotify
 
 ## Este es el avance de mi lectura.
 
-![](https://geps.dev/progress/0)
+![](https://geps.dev/progress/2)
 
 
 | Dia | Periodo | Primera Lectura | Segunda Lectura | Complemento | Cumplido
@@ -31,3 +31,4 @@ Te dejo el link de Spotify
 | [03-Enero](/reto-biblia/dia-3) | El mundo de los orígenes | Génesis 5–6 |   | Salmo 136 |:heavy_check_mark: |
 | [04-Enero](/reto-biblia/dia-4) | El mundo de los orígenes | Génesis 7–9 |   | Salmo 1 |:heavy_check_mark: |
 | [05-Enero](/reto-biblia/dia-5) | El mundo de los orígenes | Génesis 10–11 |   | Salmo 2 | :heavy_check_mark: |
+| [06-Enero](/reto-biblia/dia-6) | Los Patriarcas | Génesis 12 - 13 | Job 1 - 2  | Proverbios 1:1-7 | :heavy_check_mark: |
