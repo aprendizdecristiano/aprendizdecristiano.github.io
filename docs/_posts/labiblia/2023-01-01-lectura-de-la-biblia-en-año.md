@@ -33,3 +33,6 @@ Te dejo el link de Spotify
 | [05-Enero](/reto-biblia/dia-5) | El mundo de los orígenes | Génesis 10–11 |   | Salmo 2 | :heavy_check_mark: |
 | [06-Enero](/reto-biblia/dia-6) | Los Patriarcas | Génesis 12 - 13 | Job 1 - 2  | Proverbios 1:1-7 | :heavy_check_mark: |
 | [07-Enero](/reto-biblia/dia-7) | Los Patriarcas | Génesis 14 - 15 | Job 3 - 4  | Proverbios 1:8-19 | :heavy_check_mark: |
+| [08-Enero](/reto-biblia/dia-8) | Los Patriarcas | Génesis 16 - 17 | Job 5 - 6  | Proverbios 1:20-33 | :heavy_check_mark: |
+| [08-Enero](/reto-biblia/dia-8) | Los Patriarcas | Génesis 16 - 17 | Job 5 - 6  | Proverbios 1:20-33 | :heavy_check_mark: |
+| [09-Enero](/reto-biblia/dia-9) | Los Patriarcas | Génesis 18 - 19 | Job 7 - 8  | Proverbios 2:1-5 | :heavy_check_mark: |
