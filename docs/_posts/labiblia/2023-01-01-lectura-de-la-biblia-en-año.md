@@ -21,7 +21,7 @@ Te dejo el link de Spotify
 
 ## Este es el avance de mi lectura.
 
-![](https://geps.dev/progress/2)
+![](https://geps.dev/progress/3)
 
 
 | Dia | Periodo | Primera Lectura | Segunda Lectura | Complemento | Cumplido
@@ -36,3 +36,4 @@ Te dejo el link de Spotify
 | [08-Enero](/reto-biblia/dia-8) | Los Patriarcas | Génesis 16 - 17 | Job 5 - 6  | Proverbios 1:20-33 | :heavy_check_mark: |
 | [08-Enero](/reto-biblia/dia-8) | Los Patriarcas | Génesis 16 - 17 | Job 5 - 6  | Proverbios 1:20-33 | :heavy_check_mark: |
 | [09-Enero](/reto-biblia/dia-9) | Los Patriarcas | Génesis 18 - 19 | Job 7 - 8  | Proverbios 2:1-5 | :heavy_check_mark: |
+| [10-Enero](/reto-biblia/dia-10) | Los Patriarcas | Génesis 20 - 21 | Job 9 - 10  | Proverbios 2:6-8 | :heavy_check_mark: |
