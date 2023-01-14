@@ -39,3 +39,4 @@ Te dejo el link de Spotify
 | [10-Enero](/reto-biblia/dia-10) | Los Patriarcas | Génesis 20 - 21 | Job 9 - 10  | Proverbios 2:6-8 | :heavy_check_mark: |
 | [11-Enero](/reto-biblia/dia-11) | Los Patriarcas | Génesis 22 - 23 | Job 11 - 12  | Proverbios 2:9-15 | :heavy_check_mark: |
 | [12-Enero](/reto-biblia/dia-12) | Los Patriarcas | Génesis 24 | Job 13 - 14  | Proverbios 2:16-19 | :heavy_check_mark: |
+| [13-Enero](/reto-biblia/dia-13) | Los Patriarcas | Génesis 25 - 26 | Job 15 - 16  | Proverbios 2:20-22 | :heavy_check_mark: |
