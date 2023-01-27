@@ -52,3 +52,4 @@ Te dejo el link de Spotify
 | [23-Enero](/reto-biblia/dia-23) | Los Patriarcas | Génesis 43-44 | Job 35 - 36  | Proverbios 4:10-19 | :heavy_check_mark: |
 | [24-Enero](/reto-biblia/dia-24) | Los Patriarcas | Génesis 45-46 | Job 37 - 38  | Proverbios 4:20-27 | :heavy_check_mark: |
 | [25-Enero](/reto-biblia/dia-25) | Los Patriarcas | Génesis 47-48 | Job 39 - 40  | Salmo 16 | :heavy_check_mark: |
+| [26-Enero](/reto-biblia/dia-26) | Los Patriarcas | Génesis 49-50 | Job 41 - 42  | Salmo 17 | :heavy_check_mark: |
