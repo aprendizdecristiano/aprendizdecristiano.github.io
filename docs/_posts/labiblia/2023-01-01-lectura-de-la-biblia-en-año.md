@@ -53,3 +53,4 @@ Te dejo el link de Spotify
 | [24-Enero](/reto-biblia/dia-24) | Los Patriarcas | Génesis 45-46 | Job 37 - 38  | Proverbios 4:20-27 | :heavy_check_mark: |
 | [25-Enero](/reto-biblia/dia-25) | Los Patriarcas | Génesis 47-48 | Job 39 - 40  | Salmo 16 | :heavy_check_mark: |
 | [26-Enero](/reto-biblia/dia-26) | Los Patriarcas | Génesis 49-50 | Job 41 - 42  | Salmo 17 | :heavy_check_mark: |
+| [27-Enero](/reto-biblia/dia-27) | Egipto y Éxodo | Éxodo 1 - 2 | Levítico 1  | Salmo 44 | :heavy_check_mark: |
