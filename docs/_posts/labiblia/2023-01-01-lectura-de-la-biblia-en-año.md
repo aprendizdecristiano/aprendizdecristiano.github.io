@@ -21,7 +21,7 @@ Te dejo el link de Spotify
 
 ## Este es el avance de mi lectura.
 
-![](https://geps.dev/progress/7)
+![](https://geps.dev/progress/8)
 
 
 | Dia | Periodo | Primera Lectura | Segunda Lectura | Complemento | Cumplido
@@ -54,3 +54,4 @@ Te dejo el link de Spotify
 | [25-Enero](/reto-biblia/dia-25) | Los Patriarcas | Génesis 47-48 | Job 39 - 40  | Salmo 16 | :heavy_check_mark: |
 | [26-Enero](/reto-biblia/dia-26) | Los Patriarcas | Génesis 49-50 | Job 41 - 42  | Salmo 17 | :heavy_check_mark: |
 | [27-Enero](/reto-biblia/dia-27) | Egipto y Éxodo | Éxodo 1 - 2 | Levítico 1  | Salmo 44 | :heavy_check_mark: |
+| [28-Enero](/reto-biblia/dia-28) | Egipto y Éxodo | Éxodo 3 | Levítico 2 - 3  | Salmo 45 | :heavy_check_mark: |
