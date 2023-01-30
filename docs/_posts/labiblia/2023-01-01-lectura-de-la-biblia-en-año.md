@@ -55,3 +55,4 @@ Te dejo el link de Spotify
 | [26-Enero](/reto-biblia/dia-26) | Los Patriarcas | Génesis 49-50 | Job 41 - 42  | Salmo 17 | :heavy_check_mark: |
 | [27-Enero](/reto-biblia/dia-27) | Egipto y Éxodo | Éxodo 1 - 2 | Levítico 1  | Salmo 44 | :heavy_check_mark: |
 | [28-Enero](/reto-biblia/dia-28) | Egipto y Éxodo | Éxodo 3 | Levítico 2 - 3  | Salmo 45 | :heavy_check_mark: |
+| [29-Enero](/reto-biblia/dia-29) | Egipto y Éxodo | Éxodo 4 - 5 | Levítico 4  | Salmo 46 | :heavy_check_mark: |
