@@ -59,3 +59,4 @@ Te dejo el link de Spotify
 | [30-Enero](/reto-biblia/dia-30) | Egipto y Éxodo | Éxodo 6 - 7 | Levítico 5  | Salmo 47 | :heavy_check_mark: |
 | [31-Enero](/reto-biblia/dia-31) | Egipto y Éxodo | Éxodo 8 | Levítico 6  | Salmo 48 | :heavy_check_mark: |
 | [1-Febrero](/reto-biblia/dia-32) | Egipto y Éxodo | Éxodo 9 | Levítico 7  | Salmo 49 | :heavy_check_mark: |
+| [2-Febrero](/reto-biblia/dia-33) | Egipto y Éxodo | Éxodo 10 - 11 | Levítico 8  | Salmo 50 | :heavy_check_mark: |
