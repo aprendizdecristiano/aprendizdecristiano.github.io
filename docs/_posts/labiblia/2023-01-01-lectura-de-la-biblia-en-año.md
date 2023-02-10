@@ -21,7 +21,7 @@ Te dejo el link de Spotify
 
 ## Este es el avance de mi lectura.
 
-![](https://geps.dev/progress/8)
+![](https://geps.dev/progress/10)
 
 
 | Dia | Periodo | Primera Lectura | Segunda Lectura | Complemento | Cumplido
@@ -60,3 +60,6 @@ Te dejo el link de Spotify
 | [31-Enero](/reto-biblia/dia-31) | Egipto y Éxodo | Éxodo 8 | Levítico 6  | Salmo 48 | :heavy_check_mark: |
 | [1-Febrero](/reto-biblia/dia-32) | Egipto y Éxodo | Éxodo 9 | Levítico 7  | Salmo 49 | :heavy_check_mark: |
 | [2-Febrero](/reto-biblia/dia-33) | Egipto y Éxodo | Éxodo 10 - 11 | Levítico 8  | Salmo 50 | :heavy_check_mark: |
+| [3-Febrero](/reto-biblia/dia-34) | Egipto y Éxodo | Éxodo 12 | Levítico 9  | Salmo 114 | :heavy_check_mark: |
+| [4-Febrero](/reto-biblia/dia-35) | Egipto y Éxodo | Éxodo 13 - 14 | Levítico 10  | Salmo 53 | :heavy_check_mark: |
+| [5-Febrero](/reto-biblia/dia-36) | Egipto y Éxodo | Éxodo 15 - 16 | Levítico 11  | Salmo 71 | :heavy_check_mark: |
