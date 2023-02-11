@@ -63,3 +63,6 @@ Te dejo el link de Spotify
 | [3-Febrero](/reto-biblia/dia-34) | Egipto y Éxodo | Éxodo 12 | Levítico 9  | Salmo 114 | :heavy_check_mark: |
 | [4-Febrero](/reto-biblia/dia-35) | Egipto y Éxodo | Éxodo 13 - 14 | Levítico 10  | Salmo 53 | :heavy_check_mark: |
 | [5-Febrero](/reto-biblia/dia-36) | Egipto y Éxodo | Éxodo 15 - 16 | Levítico 11  | Salmo 71 | :heavy_check_mark: |
+| [6-Febrero](/reto-biblia/dia-37) | Egipto y Éxodo | Éxodo 17 - 18 | Levítico 12  | Salmo 73 | :heavy_check_mark: |
+| [7-Febrero](/reto-biblia/dia-38) | Egipto y Éxodo | Éxodo 19 - 20 | Levítico 13  | Salmo 74 | :heavy_check_mark: |
+| [8-Febrero](/reto-biblia/dia-39) | Egipto y Éxodo | Éxodo 21 | Levítico 14  | Salmo 75 | :heavy_check_mark: |
