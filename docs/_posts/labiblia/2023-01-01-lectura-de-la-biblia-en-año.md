@@ -70,3 +70,4 @@ Te dejo el link de Spotify
 | [10-Febrero](/reto-biblia/dia-41) | Egipto y Éxodo | Éxodo 23 | Levítico 16  | Salmo 77 | :heavy_check_mark: |
 | [11-Febrero](/reto-biblia/dia-42) | Egipto y Éxodo | Éxodo 24 | Levítico 17 - 18  | Salmo 78 | :heavy_check_mark: |
 | [12-Febrero](/reto-biblia/dia-43) | Egipto y Éxodo | Éxodo 25 - 26 | Levítico 19  | Salmo 119:1-56 | :heavy_check_mark: |
+| [13-Febrero](/reto-biblia/dia-43) | Egipto y Éxodo | Éxodo 27 - 28 | Levítico 20  | Salmo 119:57-120 | :heavy_check_mark: |
