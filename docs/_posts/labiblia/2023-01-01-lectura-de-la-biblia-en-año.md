@@ -21,7 +21,7 @@ Te dejo el link de Spotify
 
 ## Este es el avance de mi lectura.
 
-![](https://geps.dev/progress/12)
+![](https://geps.dev/progress/13)
 
 
 | Dia | Periodo | Primera Lectura | Segunda Lectura | Complemento | Cumplido
@@ -73,3 +73,4 @@ Te dejo el link de Spotify
 | [13-Febrero](/reto-biblia/dia-44) | Egipto y Éxodo | Éxodo 27 - 28 | Levítico 20  | Salmo 119:57-120 | :heavy_check_mark: |
 | [14-Febrero](/reto-biblia/dia-45) | Egipto y Éxodo | Éxodo 29 | Levítico 21  | Salmo 119:121 - 176 | :heavy_check_mark: |
 | [15-Febrero](/reto-biblia/dia-46) | Egipto y Éxodo | Éxodo 30 - 31 | Levítico 22  | Salmo 115 | :heavy_check_mark: |
+| [16-Febrero](/reto-biblia/dia-47) | Egipto y Éxodo | Éxodo 32 | Levítico 23  | Salmo 79 | :heavy_check_mark: |
