@@ -79,3 +79,4 @@ Te dejo el link de Spotify
 | [19-Febrero](/reto-biblia/dia-50) | Egipto y Éxodo | Éxodo 37 - 38 | Levítico 26  | Salmo 82 | :heavy_check_mark: |
 | [20-Febrero](/reto-biblia/dia-51) | Egipto y Éxodo | Éxodo 39 - 40 | Levítico 27  | Salmo 83 | :heavy_check_mark: |
 | [21-Febrero](/reto-biblia/dia-52) | La Peregrinación por el Desierto | Números 1 | Deuteronomio 1  | Salmo 84 | :heavy_check_mark: |
+| [22-Febrero](/reto-biblia/dia-53) | La Peregrinación por el Desierto | Números 2 | Deuteronomio 2  | Salmo 85 | :heavy_check_mark: |
