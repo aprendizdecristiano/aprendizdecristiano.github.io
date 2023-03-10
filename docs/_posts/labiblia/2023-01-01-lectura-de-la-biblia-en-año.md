@@ -21,7 +21,7 @@ Te dejo el link de Spotify
 
 ## Este es el avance de mi lectura.
 
-![](https://geps.dev/progress/17)
+![](https://geps.dev/progress/18)
 
 
 | Dia | Periodo | Primera Lectura | Segunda Lectura | Complemento | Cumplido
@@ -91,3 +91,7 @@ Te dejo el link de Spotify
 | [2-Marzo](/reto-biblia/dia-62) | La Peregrinación por el Desierto | Números 12 - 13 | Deuteronomio 11  | Salmo 94 | :heavy_check_mark: | 
 | [3-Marzo](/reto-biblia/dia-63) | La Peregrinación por el Desierto | Números 14 | Deuteronomio 12  | Salmo 95 | :heavy_check_mark: | 
 | [4-Marzo](/reto-biblia/dia-64) | La Peregrinación por el Desierto | Números 15 | Deuteronomio 13 - 14  | Salmo 96 | :heavy_check_mark: | 
+| [5-Marzo](/reto-biblia/dia-65) | La Peregrinación por el Desierto | Números 16 | Deuteronomio 15 - 16  | Salmo 97 | :heavy_check_mark: | 
+| [6-Marzo](/reto-biblia/dia-66) | La Peregrinación por el Desierto | Números 17 | Deuteronomio 17 - 18 | Salmo 98 | :heavy_check_mark: | 
+| [7-Marzo](/reto-biblia/dia-67) | La Peregrinación por el Desierto | Números 18 | Deuteronomio 19 - 20 | Salmo 99 | :heavy_check_mark: | 
+| [8-Marzo](/reto-biblia/dia-68) | La Peregrinación por el Desierto | Números 19 - 20 | Deuteronomio 21 | Salmo 100 | :heavy_check_mark: | 
