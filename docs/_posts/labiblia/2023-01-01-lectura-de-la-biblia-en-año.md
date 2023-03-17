@@ -100,3 +100,5 @@ Te dejo el link de Spotify
 | [12-Marzo](/reto-biblia/dia-71) | La Peregrinación por el Desierto | Números 23 | Deuteronomio 24 - 25 | Salmo 106 | :heavy_check_mark: | 
 | [13-Marzo](/reto-biblia/dia-72) | La Peregrinación por el Desierto | Números 24 - 25 | Deuteronomio 26 | Salmo 107 | :heavy_check_mark: | 
 | [14-Marzo](/reto-biblia/dia-73) | La Peregrinación por el Desierto | Números 26 | Deuteronomio 27 | Salmo 111 | :heavy_check_mark: | 
+| [15-Marzo](/reto-biblia/dia-74) | La Peregrinación por el Desierto | Números 27 - 28 | Deuteronomio 28 | Salmo 112 | :heavy_check_mark: | 
+| [16-Marzo](/reto-biblia/dia-75) | La Peregrinación por el Desierto | Números 29 - 30 | Deuteronomio 29 | Salmo 113 | :heavy_check_mark: | 
