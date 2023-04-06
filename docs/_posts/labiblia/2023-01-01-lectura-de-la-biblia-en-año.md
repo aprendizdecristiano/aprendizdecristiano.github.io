@@ -107,3 +107,5 @@ Te dejo el link de Spotify
 | [19-Marzo](/reto-biblia/dia-78) | La Peregrinación por el Desierto | Números 33 | Deuteronomio 32 | Salmo 118 | :heavy_check_mark: | 
 | [20-Marzo](/reto-biblia/dia-79) | La Peregrinación por el Desierto | Números 34 | Deuteronomio 33 | Salmo 120 | :heavy_check_mark: | 
 | [21-Marzo](/reto-biblia/dia-80) | La Peregrinación por el Desierto | Números 35 - 36 | Deuteronomio 34 | Salmo 121 | :heavy_check_mark: | 
+| [22-Marzo](/reto-biblia/dia-81) | La Conquista y los Jueces | Josué 1 - 4 |  | Salmo 123 | :heavy_check_mark: | 
+| [23-Marzo](/reto-biblia/dia-82) | La Conquista y los Jueces | Josué 5 - 7 |  | Salmo 125 | :heavy_check_mark: | 
