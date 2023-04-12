@@ -108,4 +108,11 @@ Te dejo el link de Spotify
 | [20-Marzo](/reto-biblia/dia-79) | La Peregrinación por el Desierto | Números 34 | Deuteronomio 33 | Salmo 120 | :heavy_check_mark: | 
 | [21-Marzo](/reto-biblia/dia-80) | La Peregrinación por el Desierto | Números 35 - 36 | Deuteronomio 34 | Salmo 121 | :heavy_check_mark: | 
 | [22-Marzo](/reto-biblia/dia-81) | La Conquista y los Jueces | Josué 1 - 4 |  | Salmo 123 | :heavy_check_mark: | 
-| [23-Marzo](/reto-biblia/dia-82) | La Conquista y los Jueces | Josué 5 - 7 |  | Salmo 125 | :heavy_check_mark: | 
+| [24-Marzo](/reto-biblia/dia-82) | La Conquista y los Jueces | Josué 5 - 7 |  | Salmo 125 | :heavy_check_mark: | 
+| [25-Marzo](/reto-biblia/dia-83) | La Conquista y los Jueces | Josué 8 - 9 |  | Salmo 126 | :heavy_check_mark: | 
+| [26-Marzo](/reto-biblia/dia-84) | La Conquista y los Jueces | Josué 10 - 11 |  | Salmo 128 | :heavy_check_mark: | 
+| [27-Marzo](/reto-biblia/dia-85) | La Conquista y los Jueces | Josué 12 - 14 |  | Salmo 129 | :heavy_check_mark: | 
+| [28-Marzo](/reto-biblia/dia-86) | La Conquista y los Jueces | Josué 15 - 18 |  | Salmo 130 | :heavy_check_mark: | 
+| [28-Marzo](/reto-biblia/dia-87) | La Conquista y los Jueces | Josué 19 - 21 |  | Salmo 131 | :heavy_check_mark: | 
+| [29-Marzo](/reto-biblia/dia-88) | La Conquista y los Jueces | Josué 22 - 24 |  | Salmo 132 | :heavy_check_mark: | 
+| [30-Marzo](/reto-biblia/dia-89) | La Conquista y los Jueces | Jueces 1- 3 | Rut 1 | Salmo 133 | :heavy_check_mark: | 
