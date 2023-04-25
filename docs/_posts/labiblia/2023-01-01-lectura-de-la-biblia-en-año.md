@@ -115,4 +115,14 @@ Te dejo el link de Spotify
 | [28-Marzo](/reto-biblia/dia-86) | La Conquista y los Jueces | Josué 15 - 18 |  | Salmo 130 | :heavy_check_mark: | 
 | [28-Marzo](/reto-biblia/dia-87) | La Conquista y los Jueces | Josué 19 - 21 |  | Salmo 131 | :heavy_check_mark: | 
 | [29-Marzo](/reto-biblia/dia-88) | La Conquista y los Jueces | Josué 22 - 24 |  | Salmo 132 | :heavy_check_mark: | 
-| [30-Marzo](/reto-biblia/dia-89) | La Conquista y los Jueces | Jueces 1- 3 | Rut 1 | Salmo 133 | :heavy_check_mark: | 
+| [30-Marzo](/reto-biblia/dia-89) | La Conquista y los Jueces | Jueces 1 - 3 | Rut 1 | Salmo 133 | :heavy_check_mark: | 
+| [31-Marzo](/reto-biblia/dia-89) | La Conquista y los Jueces | Jueces 4 - 5 | Rut 2 | Salmo 134 | :heavy_check_mark: | 
+| [1-Abril](/reto-biblia/dia-89) | La Conquista y los Jueces | Jueces 6 - 8 | Rut 3 | Salmo 135 | :heavy_check_mark: | 
+| [2-Abril](/reto-biblia/dia-89) | La Conquista y los Jueces | Jueces 9 - 11 | Rut 4 | Salmo 137 | :heavy_check_mark: | 
+| [3-Abril](/reto-biblia/dia-89) | La Conquista y los Jueces | Jueces 12 - 15 |  | Salmo 146 | :heavy_check_mark: | 
+| [4-Abril](/reto-biblia/dia-89) | La Conquista y los Jueces | Jueces 16 - 18 |  | Salmo 147 | :heavy_check_mark: | 
+| [5-Abril](/reto-biblia/dia-89) | La Conquista y los Jueces | Jueces 19 - 21 |  | Salmo 148 | :heavy_check_mark: | 
+| [6-Abril](/reto-biblia/dia-89) | La Conquista y los Jueces | 1 Samuel 1 - 2 |   | Salmo 149 | :heavy_check_mark: | 
+| [7-Abril](/reto-biblia/dia-89) | La Conquista y los Jueces | 1 Samuel 3 - 5 |  | Salmo 150 | :heavy_check_mark: | 
+| [8-Abril](/reto-biblia/dia-89) | La Conquista y los Jueces | 1 Samuel 6 - 8 |  | Salmo 86 | :heavy_check_mark: | 
+| [9-Abril](/reto-biblia/dia-89) | Cumplimiento Mesiánico | Juan 1 - 3 |  | Proverbios 5:1 - 6 | :heavy_check_mark: | 
